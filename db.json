@@ -1,0 +1,366 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "slug": "iphone-15-pro",
+    "description": "The iPhone 15 Pro features an advanced camera system and a new A17 chip, designed for high performance.",
+    "excerpt": "The latest iPhone with cutting-edge technology and exceptional performance.",
+    "price": 15999999,
+    "tags": ["smartphone", "Apple", "iPhone"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290312",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290312"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPhone 15",
+    "slug": "iphone-15",
+    "description": "The iPhone 15 comes with a new design and improved performance with the A16 chip.",
+    "excerpt": "A stylish smartphone with enhanced features and performance.",
+    "price": 12999999,
+    "tags": ["smartphone", "Apple", "iPhone"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPhone 14",
+    "slug": "iphone-14",
+    "description": "The iPhone 14 offers a balanced performance with improved camera features and battery life.",
+    "excerpt": "Reliable and high-performance iPhone with great features.",
+    "price": 10999999,
+    "tags": ["smartphone", "Apple", "iPhone"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290654",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290654"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPhone 13",
+    "slug": "iphone-13",
+    "description": "The iPhone 13 brings exceptional value with its A15 Bionic chip and improved camera system.",
+    "excerpt": "A powerful iPhone at a more accessible price point.",
+    "price": 8999999,
+    "tags": ["smartphone", "Apple", "iPhone"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1692912410963",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1692912410963"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPhone SE",
+    "slug": "iphone-se",
+    "description": "The iPhone SE combines modern performance with a classic design at an affordable price.",
+    "excerpt": "Compact and powerful with the latest features.",
+    "price": 6999999,
+    "tags": ["smartphone", "Apple", "iPhone"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1646415838921",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1646415838921"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "MacBook Air with M2 or M3 chip",
+    "slug": "macbook-air-m2-m3",
+    "description": "The MacBook Air with M2 or M3 chip provides a blend of performance and portability.",
+    "excerpt": "Ultra-lightweight laptop with powerful performance.",
+    "price": 24999999,
+    "tags": ["laptop", "Apple", "MacBook"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-m2-m3-202402?wid=1400&hei=1000&fmt=p-jpg&qlt=95&.v=1707259317253",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-m2-m3-202402?wid=1400&hei=1000&fmt=p-jpg&qlt=95&.v=1707259317253"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "MacBook Pro",
+    "slug": "macbook-pro",
+    "description": "The MacBook Pro is designed for professionals who need powerful performance and versatility.",
+    "excerpt": "High-performance laptop with advanced features.",
+    "price": 35999999,
+    "tags": ["laptop", "Apple", "MacBook"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202310_GEO_US?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1699558878362",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202310_GEO_US?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1699558878362"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iMac",
+    "slug": "imac",
+    "description": "The iMac is a stylish all-in-one desktop with impressive performance and stunning visuals.",
+    "excerpt": "Elegant all-in-one desktop with high-resolution display.",
+    "price": 29999999,
+    "tags": ["desktop", "Apple", "iMac"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Mac mini",
+    "slug": "mac-mini",
+    "description": "The Mac mini offers powerful performance in a compact form factor.",
+    "excerpt": "Compact desktop with impressive performance capabilities.",
+    "price": 15999999,
+    "tags": ["desktop", "Apple", "Mac mini"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202301?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1670549737872",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202301?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1670549737872"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Mac Studio",
+    "slug": "mac-studio",
+    "description": "The Mac Studio delivers outstanding performance for professional workflows and creative tasks.",
+    "excerpt": "Powerful workstation with exceptional performance.",
+    "price": 47999999,
+    "tags": ["desktop", "Apple", "Mac Studio"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-studio-202306?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1683842370512",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-studio-202306?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1683842370512"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Studio Display",
+    "slug": "studio-display",
+    "description": "The Studio Display offers a stunning 5K Retina display for enhanced visual experiences.",
+    "excerpt": "High-resolution display designed for professional use.",
+    "price": 24999999,
+    "tags": ["display", "Apple", "Studio Display"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-studio-display-202203?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1645558306366",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-studio-display-202203?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1645558306366"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Mac Pro",
+    "slug": "mac-pro",
+    "description": "The Mac Pro is designed for professionals needing extreme power and expandability.",
+    "excerpt": "High-performance desktop with customizable options.",
+    "price": 69999999,
+    "tags": ["desktop", "Apple", "Mac Pro"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-202306?wid=645&hei=1000&fmt=p-jpg&qlt=95&.v=1683842370649",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-202306?wid=645&hei=1000&fmt=p-jpg&qlt=95&.v=1683842370649"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Pro Display XDR",
+    "slug": "pro-display-xdr",
+    "description": "The Pro Display XDR provides unparalleled image quality and color accuracy for professionals.",
+    "excerpt": "Ultimate display for high-end creative and professional work.",
+    "price": 149999999,
+    "tags": ["display", "Apple", "Pro Display XDR"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-display-202108?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1625864626000",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-display-202108?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1625864626000"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPad Pro",
+    "slug": "ipad-pro",
+    "description": "The iPad Pro is equipped with powerful performance and advanced features for creative professionals.",
+    "excerpt": "High-performance tablet with exceptional capabilities.",
+    "price": 18999999,
+    "tags": ["tablet", "Apple", "iPad Pro"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820026",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820026"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPad Air",
+    "slug": "ipad-air",
+    "description": "The iPad Air combines powerful performance with a sleek design and affordable price.",
+    "excerpt": "Versatile and powerful tablet for everyday use.",
+    "price": 11999999,
+    "tags": ["tablet", "Apple", "iPad Air"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820139",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820139"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPad",
+    "slug": "ipad",
+    "description": "The standard iPad provides great value with a range of features suitable for all users.",
+    "excerpt": "Affordable and versatile tablet for everyday tasks.",
+    "price": 6999999,
+    "tags": ["tablet", "Apple", "iPad"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1714596612326",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1714596612326"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "iPad mini",
+    "slug": "ipad-mini",
+    "description": "The iPad mini offers a compact size with powerful performance, perfect for on-the-go use.",
+    "excerpt": "Compact tablet with high performance for portability.",
+    "price": 9999999,
+    "tags": ["tablet", "Apple", "iPad mini"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1674662574477",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1674662574477"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Apple Watch Series",
+    "slug": "apple-watch-series",
+    "description": "The Apple Watch Series offers a range of features to track your health and fitness activities.",
+    "excerpt": "Smartwatch with comprehensive health and fitness tracking.",
+    "price": 7999999,
+    "tags": ["watch", "Apple", "Apple Watch Series"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s9-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916163",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s9-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916163"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "slug": "apple-watch-ultra",
+    "description": "The Apple Watch Ultra is designed for extreme conditions with rugged features and durability.",
+    "excerpt": "High-performance smartwatch for extreme conditions.",
+    "price": 12999999,
+    "tags": ["watch", "Apple", "Apple Watch Ultra"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1708673883590",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1708673883590"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Apple Watch SE",
+    "slug": "apple-watch-se",
+    "description": "The Apple Watch SE offers essential features for health and fitness tracking at a more accessible price.",
+    "excerpt": "Affordable smartwatch with key health and fitness features.",
+    "price": 5999999,
+    "tags": ["watch", "Apple", "Apple Watch SE"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916288",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916288"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Apple Watch Hermès",
+    "slug": "apple-watch-hermes",
+    "description": "The Apple Watch Hermès collection features premium materials and design for a luxury experience.",
+    "excerpt": "Luxury smartwatch collection with high-end materials.",
+    "price": 32999999,
+    "tags": ["watch", "Apple", "Apple Watch Hermès"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-hermes-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916140",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-hermes-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916140"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Starlight Aluminum Case with Starlight Sport Loop",
+    "slug": "starlight-aluminum-case-starlight-sport-loop",
+    "description": "The Starlight Aluminum Case with Starlight Sport Loop combines elegance with functionality.",
+    "excerpt": "Stylish and functional smartwatch band in Starlight aluminum.",
+    "price": 3999999,
+    "tags": ["accessory", "Apple", "Starlight Aluminum"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-starlight-sport-loop-starlight-s9?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693282090261",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-starlight-sport-loop-starlight-s9?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693282090261"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Midnight Aluminum Case with Midnight Sport Loop",
+    "slug": "midnight-aluminum-case-midnight-sport-loop",
+    "description": "The Midnight Aluminum Case with Midnight Sport Loop offers a sleek and modern look.",
+    "excerpt": "Elegant smartwatch band in Midnight aluminum.",
+    "price": 3999999,
+    "tags": ["accessory", "Apple", "Midnight Aluminum"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/44-nc-alum-midnight-sport-loop-midnight?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1695825240245",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/44-nc-alum-midnight-sport-loop-midnight?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1695825240245"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Titanium Case with Indigo Alpine Loop",
+    "slug": "titanium-case-indigo-alpine-loop",
+    "description": "The Titanium Case with Indigo Alpine Loop is designed for durability and style.",
+    "excerpt": "Rugged and stylish smartwatch band with an Alpine loop.",
+    "price": 4999999,
+    "tags": ["accessory", "Apple", "Titanium Case"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/49-cell-titanium-alpine-indigo-ultra?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693502121799",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/49-cell-titanium-alpine-indigo-ultra?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693502121799"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Pink Aluminum Case with Light Pink Sport Loop",
+    "slug": "pink-aluminum-case-light-pink-sport-loop",
+    "description": "The Pink Aluminum Case with Light Pink Sport Loop adds a touch of elegance and fun.",
+    "excerpt": "Charming smartwatch band in Pink aluminum.",
+    "price": 3999999,
+    "tags": ["accessory", "Apple", "Pink Aluminum"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-pink-sport-loop-pink?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693384167453",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-pink-sport-loop-pink?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693384167453"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  },
+  {
+    "name": "Sea Blue Aluminum Case with Sea Blue Sport Loop",
+    "slug": "sea-blue-aluminum-case-sea-blue-sport-loop",
+    "description": "The Sea Blue Aluminum Case with Sea Blue Sport Loop offers a vibrant and stylish look.",
+    "excerpt": "Bright and stylish smartwatch band in Sea Blue aluminum.",
+    "price": 3999999,
+    "tags": ["accessory", "Apple", "Sea Blue Aluminum"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-sea-blue-sport-loop-sea-blue?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693384167454",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-sea-blue-sport-loop-sea-blue?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693384167454"
+    ],
+    "createdAt": "2024-08-01T12:00:00Z",
+    "updatedAt": "2024-08-01T12:00:00Z"
+  }
+]

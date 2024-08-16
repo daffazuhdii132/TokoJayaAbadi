@@ -1,0 +1,114 @@
+[
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290312",
+    "name": "iPhone 15 Pro"
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559",
+    "name": "iPhone 15"
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290654",
+    "name": "iPhone 14"
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1692912410963",
+    "name": "iPhone 13"
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1646415838921",
+    "name": "iPhone SE"
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-m2-m3-202402?wid=1400&hei=1000&fmt=p-jpg&qlt=95&.v=1707259317253",
+    "name": "MacBook Air with M2 or M3 chip "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202310_GEO_US?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1699558878362",
+    "name": "MacBook Pro "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
+    "name": "iMac "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202301?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1670549737872",
+    "name": "Mac mini "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-studio-202306?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1683842370512",
+    "name": "Mac Studio "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-studio-display-202203?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1645558306366",
+    "name": "Studio Display "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-202306?wid=645&hei=1000&fmt=p-jpg&qlt=95&.v=1683842370649",
+    "name": "Mac Pro "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-pro-display-202108?wid=800&hei=1000&fmt=jpeg&qlt=90&.v=1625864626000",
+    "name": "Pro Display XDR "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820026",
+    "name": "iPad Pro "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820139",
+    "name": "iPad Air "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1714596612326",
+    "name": "iPad "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1674662574477",
+    "name": "iPad mini "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s9-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916163",
+    "name": "Apple Watch Series "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1708673883590",
+    "name": "Apple Watch Ultra "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916288",
+    "name": "Apple Watch SE "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-hermes-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1707857916140",
+    "name": "Apple Watch Hermès "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-starlight-sport-loop-starlight-s9?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693282090261",
+    "name": "Starlight Aluminum Case with Starlight Sport Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/44-nc-alum-midnight-sport-loop-midnight?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1695825240245",
+    "name": "Midnight Aluminum Case with Midnight Sport Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/49-cell-titanium-alpine-indigo-ultra?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693502121799",
+    "name": "Titanium Case with Indigo Alpine Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/45-nc-alum-pink-sport-loop-light-pink-s9?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693282340775",
+    "name": "Pink Aluminum Case with Light Pink Sport Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/49-cell-titanium-trail-green-gray-ultra?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1693685925547",
+    "name": "Titanium Case with Green/Gray Trail Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/44-nc-alum-starlight-sport-loop-starlight?wid=4000&hei=4000&fmt=p-jpg&qlt=95&.v=1710373947196",
+    "name": "Starlight Aluminum Case with Starlight Sport Loop "
+  },
+  {
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/41-nc-alum-midnight-sport-loop-midnight-s9?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1693282098876",
+    "name": "Midnight Aluminum Case with Midnight Sport Loop "
+  }
+]
